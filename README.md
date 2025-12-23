@@ -74,5 +74,3 @@ This allows business users to:
 
 ---
 
-## 📁 Project Structure
-
